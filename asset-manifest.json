@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/material-ui-demo/static/css/main.f07bdd6a.css",
-    "main.js": "/material-ui-demo/static/js/main.12da1362.js",
+    "main.js": "/material-ui-demo/static/js/main.f5dd9eba.js",
     "index.html": "/material-ui-demo/index.html",
     "main.f07bdd6a.css.map": "/material-ui-demo/static/css/main.f07bdd6a.css.map",
-    "main.12da1362.js.map": "/material-ui-demo/static/js/main.12da1362.js.map"
+    "main.f5dd9eba.js.map": "/material-ui-demo/static/js/main.f5dd9eba.js.map"
   },
   "entrypoints": [
     "static/css/main.f07bdd6a.css",
-    "static/js/main.12da1362.js"
+    "static/js/main.f5dd9eba.js"
   ]
 }
